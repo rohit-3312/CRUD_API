@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Mystream",
+      "description": "Pubg",
+      "id": 1
+    },
+    {
+      "title": "NewStream",
+      "description": "fortnite",
+      "id": 2
+    },
+    {
+      "title": "ROHIT",
+      "description": "PUBG GAMMING",
+      "id": 3
+    },
+    {
+      "title": "DYNAMO",
+      "description": "PUBG GAMER",
+      "userId": "109438624837590388667",
+      "id": 4
+    }
+  ]
+}
